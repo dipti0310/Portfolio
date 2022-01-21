@@ -1,7 +1,7 @@
 # Portfolio Website.
 Web Portfolio to showcase projects and skills in better manner. 
 
-###### https://dipti0310.github.io/Portfolio/
+###### https://dipti0310.github.io/portfolio/
 
 
 
@@ -27,7 +27,7 @@ Web Portfolio to showcase projects and skills in better manner.
 
 #### To contribute to the project:
 
-1. Choose any open issue from [here](https://github.com/dipti0310/Portfolio/issues). 
+1. Choose any open issue from [here](https://github.com/dipti0310/portfolio/issues). 
 2. Comment on the issue: `Can I work on this?` and get assigned.
 3. Make changes to your fork and send a PR.
 
